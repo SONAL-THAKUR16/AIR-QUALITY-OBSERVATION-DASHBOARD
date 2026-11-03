@@ -1,0 +1,12 @@
+{
+    "Station_A": {
+        "location": "College Campus",
+        "latitude": 22.57,
+        "longitude": 88.36
+    },
+    "Station_B": {
+        "location": "Main Road",
+        "latitude": 22.58,
+        "longitude": 88.37
+    }
+}
